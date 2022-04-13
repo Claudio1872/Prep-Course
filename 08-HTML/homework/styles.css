@@ -1,0 +1,28 @@
+h1{
+    color:blue;
+}
+img{
+    position: relative;
+  top: -35px;
+  left: 20px;
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: cadetblue;
+    padding: 50px;
+    border: 20px solid  rgb(255, 251, 5) ;
+    
+     margin: 0 auto;
+}
+#spanId{
+    font-size: 18px;margin: 50px;
+}
+body {
+    
+    background-image: url("http://st.gde-fon.com/wallpapers_original/647735_eda_tekstura_fon_produktyi-pitaniya_spagetti_3602x2972_www.Gde-Fon.com.jpg") 
+}
+.divClass{
+    text-align: center;
+}
